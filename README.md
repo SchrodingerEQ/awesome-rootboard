@@ -20,12 +20,11 @@ once a community shows up." If you build something, it belongs here.
 Shipped with Rootboard itself — no install required.
 
 - [**Calendar**](https://github.com/SchrodingerEQ/Rootboard.me/tree/main/client/src/widgets/calendar) —
-  the core view: Google Calendar events on a touch-friendly day/week
-  layout.
+  Google Calendar month, week, and day views with event create/edit and sync.
 - [**Chores**](https://github.com/SchrodingerEQ/Rootboard.me/tree/main/client/src/widgets/chores) —
-  a household chore tracker for the kiosk screen.
+  Per-person daily chore checklists with a live open-chore nav badge.
 - [**Dinner**](https://github.com/SchrodingerEQ/Rootboard.me/tree/main/client/src/widgets/dinner) —
-  a simple dinner-plan display for the week.
+  Weekly dinner planner with meal voting and a saved-meals list.
 
 ## Official resources
 
