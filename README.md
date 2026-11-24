@@ -25,6 +25,8 @@ Shipped with Rootboard itself — no install required.
   Per-person daily chore checklists with a live open-chore nav badge.
 - [**Dinner**](https://github.com/SchrodingerEQ/Rootboard.me/tree/main/client/src/widgets/dinner) —
   Weekly dinner planner with meal voting and a saved-meals list.
+- [**What to Wear**](https://github.com/SchrodingerEQ/Rootboard.me/tree/main/client/src/widgets/what-to-wear) —
+  Kid-friendly weather and what to wear to school, morning and afternoon.
 
 ## Official resources
 
@@ -59,12 +61,17 @@ for the full rules, including the no-third-party-IP policy.
 
 ## Themes
 
-Rootboard doesn't have a theme system yet — it's planned, not shipped.
-When it exists, this section will list themes the same way the section
-above lists widgets. See the
-[theme system plan](https://github.com/SchrodingerEQ/Rootboard.me/blob/main/docs/plans/theme-system/THEME-SYSTEM-PLAN.md)
-for current direction. No dates, no promises — just where the thinking
-stands today.
+Rootboard has a theme system (since v1.6.0). Two themes are built in,
+**Default** and **Deep Space**, and you switch between them from the
+kiosk's Settings menu. Themes change colours today.
+
+Community themes are not supported yet:
+they are a later slice of the
+[theme engine spec](https://github.com/SchrodingerEQ/Rootboard.me/blob/main/docs/plans/theme-system/THEME-ENGINE-SPEC.md)
+(see "Out of scope (later slices)"), with the wider direction in the
+[theme system plan](https://github.com/SchrodingerEQ/Rootboard.me/blob/main/docs/plans/theme-system/THEME-SYSTEM-PLAN.md).
+When they arrive, this section will list them the same way the
+sections above list widgets. No dates, no promises.
 
 ## License
 
